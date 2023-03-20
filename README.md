@@ -1,5 +1,5 @@
 # Moving PlatformのWebGLサンプル
-動く床のWebGLサンプルです。
+動く床のWebGLサンプルです。[こちら](https://hakumairise.github.io/)からプレイできます。
 
 Unityプロジェクト()
 
