@@ -1,7 +1,7 @@
 # Moving PlatformのWebGLサンプル
 [MovingPlatformSampleリポジトリ](https://github.com/HakumaiRise/MovingPlatformSample)のWebGLサンプルです。[こちら](https://hakumairise.github.io/)からプレイできます。
 
-Unityプロジェクト()
+(WASDで移動、スペースでジャンプ)
 
 はてなブログ()
 
